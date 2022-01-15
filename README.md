@@ -1,17 +1,17 @@
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
-##### Hi, I'm Adam:
+##### Hi, I'm Harsh:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- 🎓Recent engineering graduate from Thapar University - Patiala, India
+- : Intrested in Web Development and Data Science
+- 🪐 Trying to learning everything.
+- :speech_balloon: Ask me about web technologies, buisness, data science, machine learning, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://callmeharsh.github.io/reactStatic/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshshuklaoct8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shukla-b20bb818a/)
-[![Twitter](https://img.shields.io/twitter/follow/harsh_community?style=social)](https://twitter.com/harsh_community)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh_community)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hokage_harsh_/?hl=en)
 
 
@@ -58,5 +58,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-
-⭐️ From [AdamAlston](https://github.com/adamalston)
